@@ -1,5 +1,5 @@
 package show
 
-func Name(name string) string {
+func NameV2(name string) string {
 	return "My Name: " + name + "."
 }
